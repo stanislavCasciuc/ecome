@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+env/
+# Editor-based HTTP Client requests
+/httpRequests/
+env/Lib/site-packages/Django-5.0.1.dist-info/METADATA
+
